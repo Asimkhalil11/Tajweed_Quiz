@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Tajweed_Quiz/static/css/main.4e0b1ede.css",
+    "main.js": "/Tajweed_Quiz/static/js/main.e2109898.js",
+    "static/js/787.a088650f.chunk.js": "/Tajweed_Quiz/static/js/787.a088650f.chunk.js",
+    "index.html": "/Tajweed_Quiz/index.html",
+    "main.4e0b1ede.css.map": "/Tajweed_Quiz/static/css/main.4e0b1ede.css.map",
+    "main.e2109898.js.map": "/Tajweed_Quiz/static/js/main.e2109898.js.map",
+    "787.a088650f.chunk.js.map": "/Tajweed_Quiz/static/js/787.a088650f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e0b1ede.css",
+    "static/js/main.e2109898.js"
+  ]
+}
